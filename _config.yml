@@ -6,7 +6,7 @@ baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empt
 url: "https://tokobungapontianak.github.io" # change this to the base hostname & protocol for your site
 
 
-google_analytics: G-XCR3P2M9L6
+google_analytics: G-MQQ3HPW2BL
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
